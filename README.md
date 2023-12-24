@@ -1,4 +1,4 @@
-isual Novel Project: Behind Bars
+Visual Novel Project: Behind Bars
 Overview
 
 Welcome to "Behind Bars," an interactive visual novel created with the powerful combination of the Fungus framework and Unity engine. Immerse yourself in a gripping narrative crafted by David, brought to life through the technical expertise of Damir in Unity, and enhanced with captivating visuals, art, and sounds by Anton.
