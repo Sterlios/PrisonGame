@@ -762,7 +762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 72.048775, y: -45.717506}
+  scrollPos: {x: 69.97083, y: 356.36038}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -773,8 +773,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 466648060}
+  selectedCommands:
+  - {fileID: 466648068}
   variables:
   - {fileID: 466648160}
   - {fileID: 466648159}
@@ -1054,7 +1056,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 486861775}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: f137aee9117d2fa4292a8b694327713a, type: 3}
+  portrait: {fileID: 21300000, guid: d495a1ad39421974798c6b8fd17c47e5, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1013727697}
@@ -9320,6 +9322,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9fa66dd1a1c9b6541a22673a1f22524a, type: 3}
   - {fileID: 21300000, guid: 9fa66dd1a1c9b6541a22673a1f22524a, type: 3}
   - {fileID: 21300000, guid: 1fbbb211639011842aced670da00d74c, type: 3}
+  - {fileID: 21300000, guid: d495a1ad39421974798c6b8fd17c47e5, type: 3}
   - {fileID: 21300000, guid: f137aee9117d2fa4292a8b694327713a, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
